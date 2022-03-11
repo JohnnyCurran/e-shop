@@ -1,3 +1,10 @@
+public/css
+public/dist
+public/img
+public/fonts
+public/js
+public/stylesheets
+
 *.txt
 # Logs
 logs
